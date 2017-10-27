@@ -14,7 +14,7 @@ class PostsController < ApplicationController
   end
 
   def create
-    @post =current_user.posts.build(post_params)
+    @post = current_user.posts.build(post_params)
 
     if @post.save
       redirect_to @post, notice: "Successfully created new post"
@@ -42,7 +42,7 @@ class PostsController < ApplicationController
   private
 
   def post_params
-    params.require(:post).permit(:title, :description)
+    params.require(:post).permit(:title, :description, :image)
   end
 
   def find_post
