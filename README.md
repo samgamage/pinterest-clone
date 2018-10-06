@@ -1,28 +1,25 @@
-<<<<<<< HEAD
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Ruby
+Uses ruby version 2.4.1 (Updated 10/18)
 
-Things you may want to cover:
+# Rails
+Uses rails version 5.1.4 (Updated 10/18)
 
-* Ruby version
+# What to expect
+In this project you will find a picture posting application made to look like pintrest.
 
-* System dependencies
+# What can I contribute?
+Contact me if you are serious about contributing to this project. Minimal design changes are accepted anonymously and changes that make the application run faster.
 
-* Configuration
+# Database
+This application uses PostgreSQL as its database.
 
-* Database creation
+# Added gems
+Added gems include bootstrap 4 (alpha 3 build), friendlyid, jquery, etc.
 
-* Database initialization
+# To run this project
+Download and install the latest versions of Ruby and Ruby on rails, then navigate to the main directory via command prompt or command line, then use the rails server command to start the server. Finally, navigate to localhost:3000 in your browser.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
-# webshare
->>>>>>> ab25748793405ae22bdb4db2669fbdf175c58da7
+# Preview
+![](todo-list-preview.gif)
