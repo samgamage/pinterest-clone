@@ -22,4 +22,4 @@ Added gems include bootstrap 4 (alpha 3 build), friendlyid, jquery, etc.
 Download and install the latest versions of Ruby and Ruby on rails, then navigate to the main directory via command prompt or command line, then use the rails server command to start the server. Finally, navigate to localhost:3000 in your browser.
 
 # Preview
-![](todo-list-preview.gif)
+![](pintrest-clone-preview.gif)
